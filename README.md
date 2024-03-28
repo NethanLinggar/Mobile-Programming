@@ -17,7 +17,7 @@ Assignment repository for the Mobile Programming course.
 
 ## Submission 3 - Kalkulator
 - Project description: Create an Android calculator app
-- Project link: <b>WIP</b>
-<!-- <p align="center">
+- Project link: [Project Demo](https://youtu.be/_rDw-d4toSA)
+<p align="center">
     <img src="./images/assignment_3.png" alt="Assigment 3" width="300" text-align="center">
-</p> -->
+</p>
