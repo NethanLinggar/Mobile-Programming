@@ -9,7 +9,7 @@ id edittext
 id result
 id textView
 layout activity_main
-layout input_dialogue
+layout input_dialog
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

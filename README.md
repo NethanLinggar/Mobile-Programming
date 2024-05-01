@@ -26,16 +26,14 @@ Assignment repository for the Mobile Programming course.
 - Project description: Create an Android app that integrates with SQLite
 - Project link: [Project Demo](https://youtu.be/NznmIYZGGFY)
 <p align="center">
-    WIP
-    <!-- <img src="./images/assignment_3.png" alt="Assigment 3" width="300" text-align="center"> -->
+    <img src="./images/assignment_3.png" alt="Assigment 3" width="300" text-align="center">
 </p>
 
 ## Submission 4 - Dialogue Box
 - Project description: Create an Android app that has a dialogue box
 - Project link: [Project Demo](https://youtu.be/NznmIYZGGFY)
 <p align="center">
-    WIP
-    <!-- <img src="./images/assignment_3.png" alt="Assigment 3" width="300" text-align="center"> -->
+    <img src="./images/assignment_3.png" alt="Assigment 4" width="300" text-align="center">
 </p>
 
 ## Submission 5 - List View 
@@ -49,6 +47,5 @@ Assignment repository for the Mobile Programming course.
 - Project description: Create an Android app that could parse a JSON file
 - Project link: [Project Demo](https://youtu.be/oGO8WJo5mz4)
 <p align="center">
-    WIP
     <img src="./images/assignment_6.png" alt="Assigment 6" width="300" text-align="center">
 </p>

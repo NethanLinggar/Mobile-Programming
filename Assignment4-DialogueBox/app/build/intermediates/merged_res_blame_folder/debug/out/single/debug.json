@@ -44,6 +44,10 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "com.mobileprogramming.dialoguebox.app-merged_res-31:/layout_input_dialog.xml.flat",
+        "source": "com.mobileprogramming.dialoguebox.app-main-33:/layout/input_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -62,10 +66,6 @@
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-merged_res-31:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-main-33:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.mobileprogramming.dialoguebox.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.mobileprogramming.dialoguebox.app-main-33:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.mobileprogramming.dialoguebox.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
